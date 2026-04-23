@@ -1,0 +1,28 @@
+# Logs
+bridge.log
+*.log
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V2
+.Trashes
+
+# Secrets / environment
+.env
+*.env
+secrets.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# Backup files
+*.bkp
+*.bak
+*.tmp

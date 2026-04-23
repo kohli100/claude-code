@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/sukeshkohli/Desktop/Desktop - BeaconBluff M4MaxPro/BlackBranch_Research_Innovation",
+        "/Users/sukeshkohli/Documents",
+        "/Users/sukeshkohli/Desktop"
+      ],
+      "toolFilter": {
+        "mode": "exclude",
+        "tools": ["delete_file"]
+      }
+    }
+  }
+}
